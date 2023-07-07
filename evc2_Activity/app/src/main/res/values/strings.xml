@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">evc2_Activity</string>
+    <string name="MAPS_API_KEY" translatable="false">AIzaSyA4tN1RFyqQEhR41zB8Njk0XUUheyTu_Vg</string>
+</resources>
